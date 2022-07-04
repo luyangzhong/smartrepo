@@ -1,3 +1,2 @@
 # smartrepo
-Need to change
-this is too simple
+you should have done this way earlier    but Not too bad
